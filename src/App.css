@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  padding-block: 20px;
+  margin-block-end: 20px;
+  border: 2px solid rgb(155, 206, 226);
+  border-radius: 20px;
+}
+.container .title {
+  text-transform: capitalize;
+}
